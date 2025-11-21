@@ -19,8 +19,6 @@ if __name__ == "__main__":
         hilos.append(t)
         t.start()
 
-    for t in hilos:
-        t.join()
    
     
     print(contador)
