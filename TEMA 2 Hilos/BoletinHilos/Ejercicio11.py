@@ -21,3 +21,4 @@ if __name__ == "__main__":
     hilo1.join()
     
     print(f"El resultado es: {hilo1.resultado}")
+    
