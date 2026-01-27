@@ -42,4 +42,3 @@ else:
     print(f"{ip2} es mayor que {ip1}")
     print(f"{ip1} es menor que {ip2}")
 
-
